@@ -47,7 +47,7 @@ dnnversion: 09.02.00
 * Profanity Filter
 * Providers
 * Recycle Bin
-* Scheduler / Scheduled Tasks
+* Scheduler / Scheduled Tasks 
 * Search
 * Security
   * Security Roles for Users
