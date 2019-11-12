@@ -21,7 +21,7 @@ After installing DocFX, the next step is to clone this repository from GitHub to
 The following command will clone this repository to your working directory, so you may wish to `cd` to an appropriate directory first.
 
 ```
-git clone https://github.com/DNNCommunity/DNNDocs.git
+git clone https://github.com/DnnSoftwarePersian/DNNDocs.git
 ```
 
 The previous command will have created a folder titled `DNNDocs` in your working directory.  So, for example, if you had been working in `C:\dev\`, the previous command would have created `C:\dev\DNNDocs\`.
